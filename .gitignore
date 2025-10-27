@@ -1,0 +1,13 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos de caché y compilados
+__pycache__/
+*.pyc
+
+# Archivos de datos de ejemplo que pueden ser grandes
+informacion.csv
+informacion.xlsx
+
+# Archivos temporales o de configuración del editor
+.vscode/
