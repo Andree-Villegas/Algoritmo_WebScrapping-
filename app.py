@@ -1,4 +1,5 @@
-from flask import Flask 
+#Librerías
+from flask import Flask
 
 #Instancia de la app
 app = Flask(__name__)
